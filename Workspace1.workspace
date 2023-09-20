@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <VirtualDirectory Name="Assignment1">
+    <Project Name="Rectangle" Path="Rectangle/Rectangle.project" Active="No"/>
+    <Project Name="DailyTemps" Path="DailyTemps/DailyTemps.project" Active="No"/>
+    <Project Name="Test" Path="Test/Test.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment2">
+    <Project Name="Polynomial" Path="Polynomial/Polynomial.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment3">
+    <Project Name="LinkList" Path="LinkList/LinkList.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment4">
+    <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+    <Project Name="Palindrome" Path="Palindrome/Palindrome.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment5">
+    <Project Name="Vowels" Path="Vowels/Vowels.project" Active="No"/>
+    <Project Name="AverargeGardes" Path="AverargeGardes/AverargeGardes.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment6">
+    <Project Name="BST" Path="BST/BST.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment7">
+    <Project Name="heap" Path="heap/heap.project" Active="No"/>
+    <Project Name="HeapTree" Path="HeapTree/HeapTree.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment8">
+    <Project Name="Hash" Path="Hash/Hash.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Assignment9">
+    <Project Name="Matrix" Path="Matrix/Matrix.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Test">
+    <Project Name="Test1" Path="Test1/Test1.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Rectangle" ConfigName="Debug"/>
+      <Project Name="DailyTemps" ConfigName="Debug"/>
+      <Project Name="Test" ConfigName="Debug"/>
+      <Project Name="Polynomial" ConfigName="Debug"/>
+      <Project Name="LinkList" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Palindrome" ConfigName="Debug"/>
+      <Project Name="Vowels" ConfigName="Debug"/>
+      <Project Name="AverargeGardes" ConfigName="Debug"/>
+      <Project Name="BST" ConfigName="Debug"/>
+      <Project Name="heap" ConfigName="Debug"/>
+      <Project Name="HeapTree" ConfigName="Debug"/>
+      <Project Name="Hash" ConfigName="Debug"/>
+      <Project Name="Matrix" ConfigName="Debug"/>
+      <Project Name="Test1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Rectangle" ConfigName="Release"/>
+      <Project Name="DailyTemps" ConfigName="Release"/>
+      <Project Name="Test" ConfigName="Release"/>
+      <Project Name="Polynomial" ConfigName="Release"/>
+      <Project Name="LinkList" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Palindrome" ConfigName="Release"/>
+      <Project Name="Vowels" ConfigName="Release"/>
+      <Project Name="AverargeGardes" ConfigName="Release"/>
+      <Project Name="BST" ConfigName="Release"/>
+      <Project Name="heap" ConfigName="Release"/>
+      <Project Name="HeapTree" ConfigName="Release"/>
+      <Project Name="Hash" ConfigName="Release"/>
+      <Project Name="Matrix" ConfigName="Release"/>
+      <Project Name="Test1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
